@@ -7,7 +7,7 @@
 To answer key business questions, I followed the six steps of the data analysis process taught in the course which are: Ask, Prepare, Process, Analyze, Share and Act.
 
 - Detailed documentation of *R* code is available in GitHub.
-- Initial analysis of datasets provided by Cyclistic using Microsoft Excel.
+- Initial analysis of datasets provided by Cyclist using Microsoft Excel.
 - Data cleaning, manipulation and exploration using R STUDIO.
 - Data Visualization using Tableau Public.
 - Provides data-driven recommendations based on the analysed data.
