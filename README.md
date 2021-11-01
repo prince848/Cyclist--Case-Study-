@@ -17,4 +17,4 @@ Raw Dataset Available from: **<a href="https://divvy-tripdata.s3.amazonaws.com/i
 For more details on this case study, check out my 
 - Tableau at: **<a href="https://public.tableau.com/app/profile/prince1103/viz/Bikeshare-GoogleCapstonePrince/Dashboard3#1" rel="nofollow">Cyclistic Case Study Data Visualization</a>**
 
-
+- R Publication at : **<a href =" https://rpubs.com/Prince09/CityBike" rel="nofollow">Documentation at RPubs </a>**
